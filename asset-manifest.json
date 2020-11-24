@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/spellingbee/static/css/main.2b6653f8.chunk.css",
-    "main.js": "/spellingbee/static/js/main.79eede5a.chunk.js",
-    "main.js.map": "/spellingbee/static/js/main.79eede5a.chunk.js.map",
+    "main.js": "/spellingbee/static/js/main.94dd9810.chunk.js",
+    "main.js.map": "/spellingbee/static/js/main.94dd9810.chunk.js.map",
     "runtime-main.js": "/spellingbee/static/js/runtime-main.57caa4ed.js",
     "runtime-main.js.map": "/spellingbee/static/js/runtime-main.57caa4ed.js.map",
     "static/js/2.8bcddd9a.chunk.js": "/spellingbee/static/js/2.8bcddd9a.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.57caa4ed.js",
     "static/js/2.8bcddd9a.chunk.js",
     "static/css/main.2b6653f8.chunk.css",
-    "static/js/main.79eede5a.chunk.js"
+    "static/js/main.94dd9810.chunk.js"
   ]
 }

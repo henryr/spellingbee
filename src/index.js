@@ -65,7 +65,7 @@ const SpellingBee = ({ letters }) => {
     setGuess(guess + a);
   };
 
-    const dictionary = ["bamboozle", "blameable", "emblaze", "ablaze", "embalm", "emblem", "bamboo", "amoeba", "booze", "mambo", "bloom", "mamba", "bezel", "able", "alma", "aloe", "babe", "bale", "baba", "ball", "balm", "beam", "bell", "blam", "blob", "boba", "boll", "bolo", "bomb", "boob", "boom", "lamb", "lame", "laze" "lobe", "loom", "male", "mall", "maze", "meal", "mole", "moll", "oboe", "ooze", "zeal", "zoom", "all", "ale", "baa", "bee", "boo", "bob", "ebb", "eel", "elm", "lab", "lob", "mam", "mob", "moo"];
+    const dictionary = ["bamboozle", "blameable", "emblaze", "ablaze", "embalm", "emblem", "bamboo", "amoeba", "booze", "mambo", "bloom", "mamba", "bezel", "able", "alma", "aloe", "babe", "bale", "baba", "ball", "balm", "beam", "bell", "blam", "blob", "boba", "boll", "bolo", "bomb", "boob", "boom", "lamb", "lame", "laze", "lobe", "loom", "male", "mall", "maze", "meal", "mole", "moll", "oboe", "ooze", "zeal", "zoom", "all", "ale", "baa", "bee", "boo", "bob", "ebb", "eel", "elm", "lab", "lob", "mam", "mob", "moo"];
 
   const [correctGuesses, setCorrectGuesses] = React.useState([]);
   const [msg, setMsg] = React.useState(" ");

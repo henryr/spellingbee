@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/spellingbee/static/css/main.74d13fea.chunk.css",
-    "main.js": "/spellingbee/static/js/main.074f9c2c.chunk.js",
-    "main.js.map": "/spellingbee/static/js/main.074f9c2c.chunk.js.map",
+    "main.css": "/spellingbee/static/css/main.8d6aa98e.chunk.css",
+    "main.js": "/spellingbee/static/js/main.a62a1dfa.chunk.js",
+    "main.js.map": "/spellingbee/static/js/main.a62a1dfa.chunk.js.map",
     "runtime-main.js": "/spellingbee/static/js/runtime-main.57caa4ed.js",
     "runtime-main.js.map": "/spellingbee/static/js/runtime-main.57caa4ed.js.map",
     "static/js/2.8bcddd9a.chunk.js": "/spellingbee/static/js/2.8bcddd9a.chunk.js",
     "static/js/2.8bcddd9a.chunk.js.map": "/spellingbee/static/js/2.8bcddd9a.chunk.js.map",
     "index.html": "/spellingbee/index.html",
-    "static/css/main.74d13fea.chunk.css.map": "/spellingbee/static/css/main.74d13fea.chunk.css.map",
+    "static/css/main.8d6aa98e.chunk.css.map": "/spellingbee/static/css/main.8d6aa98e.chunk.css.map",
     "static/js/2.8bcddd9a.chunk.js.LICENSE.txt": "/spellingbee/static/js/2.8bcddd9a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.57caa4ed.js",
     "static/js/2.8bcddd9a.chunk.js",
-    "static/css/main.74d13fea.chunk.css",
-    "static/js/main.074f9c2c.chunk.js"
+    "static/css/main.8d6aa98e.chunk.css",
+    "static/js/main.a62a1dfa.chunk.js"
   ]
 }
